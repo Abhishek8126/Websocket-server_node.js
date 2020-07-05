@@ -1,1 +1,6 @@
-
+{
+  "name": "Websocket-Example",
+  "description": "WebSocket using Node.js",
+  "repository": "https://github.com/Abhishek8126/Websocket-server_node.js",
+  "keywords": ["node", "websocket"]
+}
